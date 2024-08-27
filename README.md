@@ -1,3 +1,4 @@
+![logo](https://github.com/EmanuelMilao/EmanuelMilao/blob/main/senai-logo-3.png)
 ## Hi there 👋
 
 **EmanuelMilao/EmanuelMilao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -21,3 +22,6 @@ Here are some ideas to get you started:
  <img align="center" alt="html5" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
  <img align="center" alt="html5" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
 </div>
+
+
+[![crisFiep GitHub stats](https://github-readme-stats.vercel.app/api?username=crisFiep)](https://github.com/crisFiep/github-readme-stats)
